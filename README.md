@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🦅 Eagle Browser
+<img src="https://github.com/user-attachments/assets/1325adff-1a3f-431c-b9ed-7d1dd202babd" alt="Eagle Browser" width="128" height="128">
+
+# Eagle Browser
 
 **Un navigateur rapide, moderne et respectueux de votre vie privée.**
 
